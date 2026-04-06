@@ -1,4 +1,4 @@
-AESD_ASSIGNMENTS_VERSION = master
+AESD_ASSIGNMENTS_VERSION = main
 AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-Tirdad371.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 
